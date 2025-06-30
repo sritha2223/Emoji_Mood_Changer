@@ -1,0 +1,71 @@
+.container {
+  text-align: center;
+  min-height: 100vh;
+  padding: 50px;
+  background-color: #f0f0f0; /* default background */
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  transition: background-color 0.4s ease;
+}
+
+/* Mood-specific background colors */
+.container.happy {
+  background-color: #fff9c4; /* soft yellow */
+}
+
+.container.sad {
+  background-color: #d6eaf8; /* light blue */
+}
+
+.container.excited {
+  background-color: #f5c6ff; /* soft pink-purple */
+}
+
+.container.angry {
+  background-color: #f8d7da; /* light red-pink */
+}
+
+.buttons {
+  margin: 20px 0;
+}
+
+.btn {
+  padding: 12px 24px;
+  margin: 10px;
+  font-size: 18px;
+  border-radius: 10px;
+  cursor: pointer;
+  border: none;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.btn:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+/* Button colors */
+.happy {
+  background-color: #f4d03f; /* sunflower yellow */
+  color: #2c3e50;
+}
+
+.sad {
+  background-color: #5dade2; /* ocean blue */
+  color: rgb(6, 5, 5);
+}
+
+.excited {
+  background-color: #af7ac5; /* orchid */
+  color: rgb(12, 10, 10);
+}
+
+.angry {
+  background-color: #e74c3c; /* strong red */
+  color: rgb(9, 7, 7);
+}
+
+.box {
+  margin-top: 30px;
+  font-size: 24px;
+  color: #2c3e50;
+}
