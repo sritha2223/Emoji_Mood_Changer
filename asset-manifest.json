@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Emoji_Mood_Changer/static/css/main.db26a0ec.css",
+    "main.js": "/Emoji_Mood_Changer/static/js/main.eb18974d.js",
+    "static/js/453.401c3195.chunk.js": "/Emoji_Mood_Changer/static/js/453.401c3195.chunk.js",
+    "index.html": "/Emoji_Mood_Changer/index.html",
+    "main.db26a0ec.css.map": "/Emoji_Mood_Changer/static/css/main.db26a0ec.css.map",
+    "main.eb18974d.js.map": "/Emoji_Mood_Changer/static/js/main.eb18974d.js.map",
+    "453.401c3195.chunk.js.map": "/Emoji_Mood_Changer/static/js/453.401c3195.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db26a0ec.css",
+    "static/js/main.eb18974d.js"
+  ]
+}
